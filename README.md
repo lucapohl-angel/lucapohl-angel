@@ -1,115 +1,137 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Luca%20Pohl&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+applications+%F0%9F%9A%80;Passionate+about+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Creating+beautiful+web+experiences+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
+# Luca Pohl-Angel
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://github.com/lucapohl-angel">
-    <img src="https://img.shields.io/github/followers/lucapohl-angel?label=Followers&logo=github&style=for-the-badge&color=667eea&labelColor=1a1b27" alt="GitHub Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=lucapohl-angel&label=Profile%20Views&color=764ba2&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
-</p>
+**Full-Stack Developer · IT Allrounder**
+
+Krefeld, Germany &nbsp;·&nbsp; [lucapohlangelO@gmail.com](mailto:lucapohlangelO@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-lucapohl--angel-181717?style=flat-square&logo=github)](https://github.com/lucapohl-angel)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucapohlangelO@gmail.com)
+[![Location](https://img.shields.io/badge/Krefeld-Germany-0066CC?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/lucapohl-angel)
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+Self-taught developer shipping production-grade apps and websites. I work across the full stack — TypeScript frontends, Python AI services, Docker infrastructure, CI/CD pipelines. Background in Cyber Security (Hochschule Niederrhein, 4 semesters). GitHub Copilot and OpenCode are core parts of my workflow.
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Luca Pohl
-location: Germany
-current_focus: MLBB Squad Companion App
-interests:
-  - Machine Learning
-  - Computer Vision
-  - Web Development
-  - Mobile Gaming
-motto: "Clean code, beautiful design, smart solutions"
-```
-
-- 🔭 Currently building **MLBB Squad Companion App**
-- 🧠 Exploring **AI, OCR & Image Processing**
-- 🎨 Crafting **pixel-perfect web experiences**
-- 🎮 Passionate **Mobile Legends** player & developer
-
-<br clear="right"/>
+Deutsch &nbsp;·&nbsp; English &nbsp;·&nbsp; Português
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,opencv,git,github,vscode&theme=dark" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### [MLBB Squad Companion](https://syntact.fun)
+*private repo · in active development*
 
-## 🚀 Featured Projects
+Full-stack production platform for Mobile Legends: Bang Bang squad management and match analytics. Integrates an OCR engine, Ollama LLM + GraphRAG knowledge layer, and a complete self-hosted infrastructure stack.
 
-### 🎮 [N.E.X.U.S-ML](https://github.com/lucapohl-angel/N.E.X.U.S-ML)
-**Neural Extraction for Unified Squads** - AI-powered engine that extracts Mobile Legends match data from screenshots using computer vision & OCR.
+**99 production deployments.**
 
-`Python` `OpenCV` `Tesseract OCR` `NumPy` `Pillow`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🔥 [Brugers](https://github.com/lucapohl-angel/Brugers) | [Live Demo](https://lucapohl-angel.github.io/Brugers/)
-**Luxury Burger Restaurant Website** - Sophisticated, fully responsive landing page with elegant design.
+</td>
+<td width="50%" valign="top">
 
-`HTML5` `CSS3` `JavaScript` `GitHub Pages`
+### [DeMoGa — Deutsche Mobile Gaming Association](https://demoga.de)
+*private repo*
 
-### 🌍 GlobalSpirit Landing Page
-**Professional Landing Page** - Clean and modern landing page with focus on user experience.
+Professional website and custom CMS platform for Germany's mobile gaming & esports association. Full frontend architecture, backend API, containerized and deployed. Built through my involvement in the Mobile Legends esports scene.
 
-`HTML5` `CSS3` `JavaScript`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 📱 MLBB Squad Companion *(In Development)*
-**Companion App** - Squad management and statistics tracking for Mobile Legends players.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### [N.E.X.U.S-ML](https://github.com/lucapohl-angel/N.E.X.U.S-ML)
+*public*
 
-## 📈 GitHub Stats
+AI-powered engine that processes Mobile Legends post-game screenshots and extracts structured match data via computer vision and OCR. Detects heroes, items, KDA, damage stats, and gold breakdown across 5 screen types. Powers the Squad Companion backend.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucapohl-angel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucapohl-angel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucapohl-angel&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### [GlocalSpirit — NGO Website](https://glocalspirit.org)
+*freelance*
 
-## 🏆 Achievements
+Professional website for GlocalSpirit, an international NGO.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucapohl-angel&theme=discord&no-frame=true&no-bg=true&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucapohl-angel/lucapohl-angel/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucapohl-angel/lucapohl-angel/output/github-contribution-grid-snake.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/lucapohl-angel/lucapohl-angel/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+### [FlameTheory Demo Site](https://lucapohl-angel.github.io/Brugers/)
+*client demo*
 
-<p align="center">⭐ Star my repos if you find them interesting!</p>
+High-fidelity luxury restaurant landing page built for a client pitch.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **AI & CV** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white) |
+
+---
+
+## Experience
+
+**IT Support — J.J IT Solutions @ Heinz Company** &nbsp;`Sep 2023`  
+On-site installation and maintenance of TV and touchscreen systems.
+
+**IT Support — Primark** &nbsp;`Mar & Sep 2023`  
+Workstation setup, peripheral installation, hardware replacement.
+
+**NFT Project Manager** &nbsp;`Nov 2022 – Jan 2023`  
+Community management and ticket-system operations.
+
+---
+
+## Education
+
+Cyber Security Management — Hochschule Niederrhein *(4 semesters)*  
+Hochschulreife / Abitur — Comenius-Kolleg, Mettingen  
+Ensino Médio — São Paulo, Brasil
+
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucapohl-angel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/lucapohl-angel)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucapohl-angel&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/lucapohl-angel)
+
+</div>
