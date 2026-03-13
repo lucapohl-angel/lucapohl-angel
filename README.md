@@ -128,10 +128,12 @@ Ensino Médio — São Paulo, Brasil
 
 ---
 
-<div align="center">
+## By the numbers
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucapohl-angel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/lucapohl-angel)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucapohl-angel&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/lucapohl-angel)
-
-</div>
+| | |
+|---|---|
+| Production deployments shipped | **99+** (MLBB Squad Companion alone) |
+| Live projects | **[syntact.fun](https://syntact.fun) · [demoga.de](https://demoga.de) · [glocalspirit.org](https://glocalspirit.org)** |
+| Collaborative private repos | **2** (DeMoGa · MLBB Squad Companion) |
+| Primary languages | **TypeScript · Python · JavaScript** |
+| Active on GitHub since | **2020** |
