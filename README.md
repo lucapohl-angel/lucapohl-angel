@@ -29,6 +29,8 @@ Deutsch &nbsp;·&nbsp; English &nbsp;·&nbsp; Português
 ### [MLBB Squad Companion](https://syntact.fun)
 *private repo · in active development*
 
+[![syntact preview](assets/preview-syntact.png)](https://syntact.fun)
+
 Full-stack production platform for Mobile Legends: Bang Bang squad management and match analytics. Integrates an OCR engine, Ollama LLM + GraphRAG knowledge layer, and a complete self-hosted infrastructure stack.
 
 **99 production deployments.**
@@ -44,6 +46,8 @@ Full-stack production platform for Mobile Legends: Bang Bang squad management an
 
 ### [DeMoGa — Deutsche Mobile Gaming Association](https://demoga.de)
 *private repo*
+
+[![demoga preview](assets/preview-demoga.png)](https://demoga.de)
 
 Professional website and custom CMS platform for Germany's mobile gaming & esports association. Full frontend architecture, backend API, containerized and deployed. Built through my involvement in the Mobile Legends esports scene.
 
@@ -73,6 +77,8 @@ AI-powered engine that processes Mobile Legends post-game screenshots and extrac
 ### [GlocalSpirit — NGO Website](https://glocalspirit.org)
 *freelance*
 
+[![glocalspirit preview](assets/preview-glocalspirit.png)](https://glocalspirit.org)
+
 Professional website for GlocalSpirit, an international NGO.
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -83,6 +89,8 @@ Professional website for GlocalSpirit, an international NGO.
 
 ### [FlameTheory Demo Site](https://lucapohl-angel.github.io/Brugers/)
 *client demo*
+
+[![flametheory preview](assets/preview-flametheory.png)](https://lucapohl-angel.github.io/Brugers/)
 
 High-fidelity luxury restaurant landing page built for a client pitch.
 
