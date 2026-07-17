@@ -2,7 +2,7 @@
 
 # Luca Pohl-Angel
 
-**Junior Full-Stack Developer · IT Allrounder · AI Tools Builder**
+**Full-Stack Developer · IT Allrounder · AI Tools Builder**
 
 Krefeld, Germany &nbsp;·&nbsp; [lucapohlangel0@gmail.com](mailto:lucapohlangel0@gmail.com)
 
