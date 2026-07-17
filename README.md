@@ -2,7 +2,7 @@
 
 # Luca Pohl-Angel
 
-**Junior Full-Stack Developer · IT Allrounder · AI Tools Builder**
+**Full-Stack Developer · IT Allrounder · AI Tools Builder**
 
 [removed], Germany &nbsp;·&nbsp; [[removed]](mailto:[removed])
 
