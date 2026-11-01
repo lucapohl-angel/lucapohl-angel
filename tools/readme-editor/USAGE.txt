@@ -1,7 +1,7 @@
 POHL ANGEL — editable projects and résumé assets
 
 CONTENTS
-projects.svg — animated four-project board.
+projects.svg — static four-project board.
 projects-still.svg — identical board without animation.
 project-1.svg / project-2.svg / project-3.svg / project-4.svg — separate cards for individual README links.
 resume-{chamfer,notched,split}-{en,de,pt}.svg — three shapes in three languages.
@@ -9,7 +9,7 @@ resumes/ — updated English, German and Portuguese résumé PDFs.
 projects.json — editable project data, including screenshots.
 
 EDITING
-Open http://127.0.0.1:8774/tools/readme-editor/ in Edge.
+Open http://127.0.0.1:8773/project-assets/ in Edge.
 Change project names, descriptions, tools, links and screenshot files.
 Choose whether screenshots fill their frame or show their whole image.
 The browser saves drafts locally using IndexedDB; download project data as a backup.
@@ -34,14 +34,13 @@ A README embeds SVG as an image. Links inside that image are not interactive.
 Use separate project SVGs wrapped in Markdown/HTML links for separate destinations.
 The embed-code panel generates these wrappers; PHASE and Vestigium stay unlinked and are labelled Private.
 Place SVGs in assets/ and PDFs in resumes/ beside your README.
-For this profile, the selected resume shape is notched.
 The bundled PDFs reflect the current local copies. Updating a PDF requires
 replacing the file itself; editing a button changes only its label and link.
 
-ANIMATION
-Six low-opacity PCB traces animate via CSS stroke-dashoffset.
-No JavaScript, animated filters, external images or external fonts inside SVGs.
-Reduced-motion preference stops the signal animation. Still SVG also included.
+STATIC ARTWORK
+PCB traces are fixed. No animation, JavaScript, external images or external fonts.
+projects-still.svg is retained as an identical compatibility export.
+heading-projects.svg and heading-resume.svg use centered Cormorant Garamond text.
 Verified on the live GitHub profile in Edge at desktop and mobile sizes.
 All artwork loaded and the three resume links returned valid PDFs.
 Also tested locally as SVG images with JavaScript disabled. Native vector-editor
@@ -53,8 +52,8 @@ Atlas OS screenshot: https://atlas-os.dev/, captured 2026-11-01.
 Vestigium: screenshot of a local README excerpt using its existing artwork;
 it is a development project, with no public destination currently supplied.
 Existing résumé content: desktop Webentwickler and Automation_AI_Ops_EN PDFs.
-Original résumés remain unchanged in the owner’s local workspace.
-The profile’s current PDFs live in the repository resumes/ directory.
+Original résumés remain unchanged. Updated editable sources are in:
+/home/momokoboi/Desktop/CV-Lebenslauf/AI-Fullstack-2026-11/
 
 Reference for SVG image restrictions:
 https://developer.mozilla.org/en-US/docs/Web/SVG/Guides/SVG_as_an_image

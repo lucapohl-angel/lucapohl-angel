@@ -9,7 +9,9 @@
 
 <img src="assets/divider-wing-pair.svg" width="100%" alt="" />
 
-## Selected projects
+<h2 align="center">
+  <img src="assets/heading-projects.svg" width="380" height="64" alt="Selected projects" />
+</h2>
 
 <p align="center">
   <img src="assets/project-1.svg" width="400" alt="PHASE — private esports website with tournament search and game filters." />
@@ -21,7 +23,9 @@
   <a href="https://github.com/lucapohl-angel/formative"><img src="assets/project-4.svg" width="400" alt="Formative — app discovery through interviews and interactive prototypes. View repository." /></a>
 </p>
 
-## Résumé
+<h2 align="center">
+  <img src="assets/heading-resume.svg" width="200" height="64" alt="Résumé" />
+</h2>
 
 <p align="center">
   <a href="https://github.com/lucapohl-angel/lucapohl-angel/raw/refs/heads/main/resumes/Luca_Pohl-Angel_AI_Fullstack_EN.pdf"><img src="assets/resume-notched-en.svg" width="220" alt="Download résumé in English" /></a>

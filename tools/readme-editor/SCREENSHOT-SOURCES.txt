@@ -5,3 +5,5 @@ Vestigium: locally rendered README excerpt using existing documentation artwork.
 Screenshots embedded in projects.json and exported SVGs.
 
 Formative: existing public documentation screenshot, /home/momokoboi/formative/docs/media/formative.png. Demonstration workspace, not real user records.
+
+PHASE recaptured after the orb appeared above the hand. Screenshots encoded as WebP at up to 1000 x 750 for compact SVG exports.
