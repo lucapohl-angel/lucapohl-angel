@@ -6,8 +6,8 @@ Open http://127.0.0.1:8774/tools/readme-editor/ in Edge.
 
 Edit the project text, screenshots, résumé labels or links and download a new bundle.
 Copy the matching SVGs from that bundle into ../../assets/.
-The profile README uses project-1.svg, project-2.svg and project-3.svg to allow
-Atlas OS to link out while PHASE and Vestigium remain unlinked.
+The profile README uses project-1.svg through project-4.svg to allow
+Atlas OS and Formative to link out while PHASE and Vestigium remain unlinked.
 Selected résumé silhouette: notched. PDFs live in ../../resumes/.
 
 For source edits, modify projects.json and run node build.mjs in this folder.

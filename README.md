@@ -3,14 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lucapohl-angel"><img src="assets/button-feather-github.svg" width="210" alt="GitHub" /></a>
-  <a href="mailto:[removed]"><img src="assets/button-feather-email.svg" width="210" alt="Email" /></a>
-</p>
-
-<p align="center">
-  I build web experiences, AI tools and developer workflows.<br />
-  Interfaces, APIs, visual design and deployment — from the first idea to a working project.<br /><br />
-  [removed], Germany · Deutsch · English · Português
+  I build websites and tools for coding agents.<br />
+  Deutsch · English · Português
 </p>
 
 <img src="assets/divider-wing-pair.svg" width="100%" alt="" />
@@ -18,14 +12,16 @@
 ## Selected projects
 
 <p align="center">
-  <img src="assets/project-1.svg" width="260" alt="PHASE — private esports web project. Astro, TypeScript, Tailwind and GSAP." />
-  <a href="https://atlas-os.dev/"><img src="assets/project-2.svg" width="260" alt="Atlas OS — multi-agent developer CLI. Visit atlas-os.dev." /></a>
-  <img src="assets/project-3.svg" width="260" alt="Vestigium — private context-led design skill for coding agents." />
+  <img src="assets/project-1.svg" width="400" alt="PHASE — private esports website with tournament search and game filters." />
+  <a href="https://atlas-os.dev/"><img src="assets/project-2.svg" width="400" alt="Atlas OS — a multi-agent development CLI. View website." /></a>
 </p>
 
-<img src="assets/divider-wing-pair.svg" width="100%" alt="" />
+<p align="center">
+  <img src="assets/project-3.svg" width="400" alt="Vestigium — private website design and review skill for coding agents." />
+  <a href="https://github.com/lucapohl-angel/formative"><img src="assets/project-4.svg" width="400" alt="Formative — app discovery through interviews and interactive prototypes. View repository." /></a>
+</p>
 
-## Download my résumé
+## Résumé
 
 <p align="center">
   <a href="https://github.com/lucapohl-angel/lucapohl-angel/raw/refs/heads/main/resumes/Luca_Pohl-Angel_AI_Fullstack_EN.pdf"><img src="assets/resume-notched-en.svg" width="220" alt="Download résumé in English" /></a>
@@ -53,6 +49,6 @@
 
 ### Background
 
-Previous work in IT support and onsite rollout. Four semesters of Cyber Security Management at Hochschule Niederrhein; Abitur at Comenius-Kolleg, Mettingen; Ensino Médio in São Paulo, Brazil.
+Previous work in IT support and onsite rollout. Four semesters of Cyber Security Management at Hochschule Niederrhein.
 
 </details>

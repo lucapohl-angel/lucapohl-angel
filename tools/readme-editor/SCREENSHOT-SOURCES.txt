@@ -3,3 +3,5 @@ PHASE: user-provided private website preview. URL intentionally omitted from all
 Atlas OS: https://atlas-os.dev/ live homepage.
 Vestigium: locally rendered README excerpt using existing documentation artwork. It is documentation, not a claimed public website. No link included.
 Screenshots embedded in projects.json and exported SVGs.
+
+Formative: existing public documentation screenshot, /home/momokoboi/formative/docs/media/formative.png. Demonstration workspace, not real user records.

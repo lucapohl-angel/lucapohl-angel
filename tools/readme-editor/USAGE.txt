@@ -1,9 +1,9 @@
 POHL ANGEL — editable projects and résumé assets
 
 CONTENTS
-projects.svg — animated three-project board.
+projects.svg — animated four-project board.
 projects-still.svg — identical board without animation.
-project-1.svg / project-2.svg / project-3.svg — separate cards for individual README links.
+project-1.svg / project-2.svg / project-3.svg / project-4.svg — separate cards for individual README links.
 resume-{chamfer,notched,split}-{en,de,pt}.svg — three shapes in three languages.
 resumes/ — updated English, German and Portuguese résumé PDFs.
 projects.json — editable project data, including screenshots.
@@ -13,7 +13,7 @@ Open http://127.0.0.1:8774/tools/readme-editor/ in Edge.
 Change project names, descriptions, tools, links and screenshot files.
 Choose whether screenshots fill their frame or show their whole image.
 The browser saves drafts locally using IndexedDB; download project data as a backup.
-Open an exported combined SVG or JSON to restore all three project panels.
+Open an exported combined SVG or JSON to restore all four project panels.
 Open a single project SVG to replace only its matching panel in the current draft.
 Open a résumé SVG to restore résumé labels/links without replacing project images.
 Download the asset bundle after editing; it includes your current artwork,
@@ -22,7 +22,7 @@ project-data.json, embed code and the three current PDF files.
 DIRECT SVG EDITING
 Names, descriptions, labels and tools remain native <text> elements.
 Screenshots use embedded <image href="data:image/png;base64,..."> elements.
-Layer groups: project-1 / project-2 / project-3, pcb-background.
+Layer groups: project-1 / project-2 / project-3 / project-4, pcb-background.
 The Cormorant font is embedded so it does not need a remote font request.
 The SVG can be opened in a text editor or vector editor. Some editors may
 require installing Cormorant Garamond to display the embedded font correctly.
@@ -31,7 +31,7 @@ After manual XML edits, update the matching metadata or use the file directly.
 
 README LINKS
 A README embeds SVG as an image. Links inside that image are not interactive.
-Use separate project SVGs wrapped in Markdown/HTML links for three destinations.
+Use separate project SVGs wrapped in Markdown/HTML links for separate destinations.
 The embed-code panel generates these wrappers; PHASE and Vestigium stay unlinked and are labelled Private.
 Place SVGs in assets/ and PDFs in resumes/ beside your README.
 For this profile, the selected resume shape is notched.
@@ -60,3 +60,6 @@ Reference for SVG image restrictions:
 https://developer.mozilla.org/en-US/docs/Web/SVG/Guides/SVG_as_an_image
 Reference for README image/link syntax:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+Current CVs omit email, phone, location, secondary-school entries, and warehouse work.
+Formative preview is its existing docs/media/formative.png demonstration image.
