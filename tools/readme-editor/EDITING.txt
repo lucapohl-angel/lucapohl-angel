@@ -1,0 +1,19 @@
+README artwork editor
+
+From the repository root:
+  python -m http.server 8774 --bind 127.0.0.1
+Open http://127.0.0.1:8774/tools/readme-editor/ in Edge.
+
+Edit the project text, screenshots, résumé labels or links and download a new bundle.
+Copy the matching SVGs from that bundle into ../../assets/.
+The profile README uses project-1.svg, project-2.svg and project-3.svg to allow
+Atlas OS to link out while PHASE and Vestigium remain unlinked.
+Selected résumé silhouette: notched. PDFs live in ../../resumes/.
+
+For source edits, modify projects.json and run node build.mjs in this folder.
+That rebuilds the SVGs beside the generator; copy the desired files into ../../assets/.
+The current banner and dividers are separate assets; the project builder does not modify them.
+
+Text remains SVG text. Embedded screenshot images and the bundled font keep SVGs standalone.
+The export's metadata can be reopened in this editor. Direct SVG text edits should
+also update metadata if the file will later be re-imported into this editor.

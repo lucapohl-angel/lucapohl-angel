@@ -1,0 +1,5 @@
+Captured 2026-11-01 in Edge, 1440 x 900.
+PHASE: user-provided private website preview. URL intentionally omitted from all deliverables.
+Atlas OS: https://atlas-os.dev/ live homepage.
+Vestigium: locally rendered README excerpt using existing documentation artwork. It is documentation, not a claimed public website. No link included.
+Screenshots embedded in projects.json and exported SVGs.
