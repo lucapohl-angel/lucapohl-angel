@@ -42,7 +42,10 @@ ANIMATION
 Six low-opacity PCB traces animate via CSS stroke-dashoffset.
 No JavaScript, animated filters, external images or external fonts inside SVGs.
 Reduced-motion preference stops the signal animation. Still SVG also included.
-Tested locally in Edge as images with JavaScript disabled, not live on GitHub.
+Verified on the live GitHub profile in Edge at desktop and mobile sizes.
+All artwork loaded and the three resume links returned valid PDFs.
+Also tested locally as SVG images with JavaScript disabled. Native vector-editor
+compatibility has not been separately verified.
 
 SOURCES
 PHASE screenshot: user-provided private preview, captured 2026-11-01; no destination included.
