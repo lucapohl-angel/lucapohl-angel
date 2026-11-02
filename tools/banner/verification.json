@@ -1,0 +1,14 @@
+{
+  "eyes": 0,
+  "animations": 24,
+  "wingMoves": true,
+  "eggs": {
+    "spoon": "0.76",
+    "human": "0.76"
+  },
+  "scriptCount": 0,
+  "images": 26,
+  "reducedAnimations": 0,
+  "mobileOverflow": false,
+  "errors": []
+}
